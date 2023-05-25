@@ -10,4 +10,4 @@ Once I have actually managed to get this package onto PyPi, you should be able t
 
 .. code-block:: console
 
-   (.venv) $ pip install inspect_galah_dr4
+   (.venv) $ pip install -i https://test.pypi.org/simple/ inspect-galah-dr4
