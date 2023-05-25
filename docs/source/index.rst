@@ -1,5 +1,5 @@
 Inspect GALAH DR4 Analysis Products!
-===================================
+====================================
 
 **GALAH DR4** is the fourth data release of the GALactic Archaeology with HERMES (GALAH) survey.
 
