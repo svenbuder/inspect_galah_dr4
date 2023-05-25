@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
-=======================================
+Inspect GALAH DR4 Analysis Products
+===================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This documented package will allow you to download and inspect GALAH DR4 analysis products.
 
-Read the tutorial here:
+Read the documentation here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://inspect-galah-dr4.readthedocs.io/en/latest/
