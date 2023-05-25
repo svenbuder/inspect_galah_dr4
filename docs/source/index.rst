@@ -1,13 +1,13 @@
-Welcome to Lumache's documentation!
+Inspect GALAH DR4 Analysis Products!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**GALAH DR4** is the fourth data release of the GALactic Archaeology with HERMES (GALAH) survey.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+You can find more information about the survey at: https://galah-survey.org.
+
+The data products of GALAH DR4 will be hosted at: https://cloud.datacentral.org.au/teamdata/GALAH/public/GALAH_DR4/
+
+With this package, you can easily download and inspect analysis products of GALAH DR4.
 
 .. note::
 
